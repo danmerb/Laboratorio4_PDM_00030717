@@ -1,5 +1,5 @@
 
-package com.example.laboratorio4_pdm_00229017.activities
+package com.sovize.labo4.activities
 
 import android.os.AsyncTask
 import android.support.v7.app.AppCompatActivity
